@@ -3,21 +3,21 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh50Xew8.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50Xew8.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Mulish';
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/mulish/v10/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1RwaA.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/mulish/v11/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1RwaA.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Mulish';
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/mulish/v10/1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpWwaA.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/mulish/v11/1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpWwaA.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Roboto';
@@ -257,7 +257,6 @@ button {
   line-height: 24px;
   text-align: center;
   text-transform: uppercase;
-  font-feature-settings: 'tnum' on, 'lnum' on;
   display: inline-block;
   max-width: 826px;
   height: 89px;
@@ -490,6 +489,25 @@ button {
 }
 .sec4 .r4 {
   margin: 50px 40px 50px 0;
+}
+.sec4 .r6 {
+  width: 350px;
+  height: 56px;
+  margin: 0 auto;
+  background: linear-gradient(75.93deg, #FAD264 44.82%, #FCE558 70.67%);
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  display: flex;
+}
+.sec4 .r6 .r7 {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  font-family: 'Gilroy';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
 }
 .sec6 {
   background-color: #f6f6f6;
